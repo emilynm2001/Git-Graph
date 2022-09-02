@@ -4,4 +4,7 @@ Git-Graph assignment
 Emily Morgan
 Due 09/05/2022
 
-## NEVER GIVE UP ON YOUR DREAMS
+![alt text](graph diagram.png "backwards arrows")
+
+branch bug-fix-experimental
+commit 9
