@@ -1,6 +1,15 @@
 # Git-Graph
 CSCI 3323 - Fall 2022
-Git Graph assignment
+
+Git-Graph assignment
+
 Emily Morgan
 
-commit 10-main branch
+Due 09/05/2022
+
+## NEVER GIVE UP ON YOUR DREAMS
+
+<br>
+
+![alt text](graph-diagram.png "backwards arrows")
+
